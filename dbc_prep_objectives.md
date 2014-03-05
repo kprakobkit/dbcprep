@@ -2,13 +2,9 @@
 # DBC Prep Objectives
 Congratulations on your acceptance to Dev Bootcamp! In order to get everyone ramped up for Phase 0, as well as to quench your thirst for more knowledge and skills, we’ve put together the following list of objectives and resources for you to prepare yourself for the Phase 0 (and Dev Bootcamp) experience! 
 
-The objectives are separated into two main sections. Each section is prefaced with "Before Entering Phase 0."
+The objectives are separated into sections. You **must** feel comfortable with each section's objectives to hit the ground running on day one of Phase 0. If you have no programming experience, this section should probably take you around 20-30 hours to do well. 
 
-1. **"I need to be able to..."**<br> You **must** feel comfortable with these objectives to hit the ground running on day one of Phase 0. If you have no programming experience, this section should probably take you around 20-30 hours to do well. 
-
-2. **"It would be great to be able to..."** <br> These concepts will be addressed in a later part of Phase 0, so you have more time to prep these.
-
-3. **Additional Resources** (optional)
+Dev Bootcamp provides a unique learning environment and cultural experience. If you want more information on how to think like a programmer or cultural issues we'll be discussing, read up on the optional **additional resources.**
 
 
 Make the best use of your time before Phase 0 by pushing yourself to practice and demonstrate as many of these objectives as you can. 
@@ -33,7 +29,6 @@ Learning Objectives:
 - [ ] Identify my 
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
 - [ ] Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
-- [ ] Introduce basic programming concepts to another person!<br> *What did you explain? What questions did the other person ask? How could you explain the topic better in the future? What did you learn from this experience?*
 
 #### 2. Computer Set-Up
 
@@ -93,99 +88,15 @@ Learning Objectives:
 - [ ] Debug syntax errors from error messages
 
 
-## It would be great to be able to:
 
-#### 5. Counting and Math
-
-Resource: <a href="http://www.amazon.com/Count-Programming-Mere-Mortals-ebook/dp/B005DPIKPE/ref=sr_1_1?ie=UTF8&qid=1380317094&sr=8-1&keywords=how+to+count" target="_blank">*How to Count*</a> by Steven Frank ($2.99)
-
-Learning Objectives:
-
-- [ ] Explain how to count in decimal
-- [ ] Explain “floating point” and its challenges
-- [ ] Describe the difference between integer and float division
-
-#### 6. Code Formatting and Style 
-
-Learning Objectives:
-
-- [ ] Format your ruby files according to a <a href = "https://github.com/thoughtbot/guides/tree/master/style" target="_blank">Ruby style guide</a>
-- [ ] <a href "http://blog.alexmaccaw.com/sublime-text" target="_blank">Update your Sublime environment</a> to default to two-spaces instead of four for tabs.
-
-
-#### 7. HTML and CSS
-
-Resources: <a href = "http://www.codecademy.com/tracks/web" target="_blank">Codeacdemy: Web Fundamentals</a> and <a href = "http://milanlandaverde.com/blog/2013/10/20/conceptual-introduction-to-web-development/" target="_blank">Conceptual intro to web development</a>
-
-Learning Objectives:
-
-- [ ] Identify an opening and closing tag in HTML
-- [ ] Determine when to use the proper HTML tags 
-- [ ] Indent HTML according to established guidelines
-- [ ] Identify CSS selectors
-- [ ] Explain how CSS formats HTML documents
-- [ ] Identify the parent/child elements in HTML
-- [ ] Compare classes and IDs in HTML
-- [ ] Describe the CSS box model
-- [ ] Explain basic CSS positioning (inline, inline-block, float, padding, margins, borders, absolute, relative, fixed)
-
-Optional Resource: <a href=""http://www.codeschool.com/courses/css-cross-country" target="_blank">CodeSchool CSS Cross Country</a> (Subscription needed)
-
-
-
-#### 8. JavaScript 
-Resource: <a href = "http://www.codecademy.com/tracks/javascript" target="_blank">Codecademy: JavaScript</a>
-
-Learning Objectives:
-
-- [ ] Create variables using proper naming conventions
-- [ ] Evaluate Boolean statements 
-- [ ] Write basic functions to solve mathematical problems (5 + 4)
-- [ ] Describe flow control using `if` , `else if`, and `else`
-- [ ] Compare `for`, `while`, and `do` loops
-- [ ] Define `&&`,  `||`,  and `!`
-- [ ] Compare literal and constructor notation
-
-Optional Resources:
-
-- <a href = "http://www.codecombat.com/" target="_blank">Code Combat</a> Kill Ogres with JavaScript!
-
-- Mozilla's <a href = "https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style#JavaScript_practices" target="_blank"> Coding Style</a>  for JavaScript
-- Codeschool's <a href = "http://www.codeschool.com/courses/javascript-road-trip-part-1" target="_blank">JavaScript Roadtrip</a> (Part 1 is free)
-
-***
 ## Additional Resources
 *These are optional, so check these out if you have some the time.*
-
-#### Ruby
-- <a href = "http://ruby-doc.org/core-2.0.0/" target="_blank">Ruby Docs</a> (Official Ruby) Documentation for version 2.0.0.Use this to research new methods for objects. Specifically, check out <a href = "http://ruby-doc.org/core-2.0/String.html" target="_blank">String</a>, <a href = "http://ruby-doc.org/core-2.0/Integer.html" target="_blank">Integer</a>, <a href = "http://ruby-doc.org/core-2.0/Array.html" target="_blank">Array</a>, <a href = "http://ruby-doc.org/core-2.0/Hash.html" target="_blank">Hash</a>, and <a href = "http://ruby-doc.org/core-2.0/Enumerable.html" target="_blank">Enumerable</a>. What methods are built in to Ruby? Can you implement them? 
-
-- <a href = "https://rubymonk.com/" target="_blank">Ruby Monk</a> Interactive tutorials to help you learn Ruby, similar to Codecademy with different challenges.
-
-- <a href = "http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657" target="_blank">*The Well-Grounded Rubyist*</a> By David A. Black. A Highly recommended reference book that goes into depth about the structure and power of Ruby. It's a must-have according to many DBC students.
-
-- <a href = "http://mislav.uniqpath.com/poignant-guide/" target="_blank">The Poignant Guide to Ruby</a> (Online book) An amusing, cartoon-filled introduction to using Ruby. 
-
-#### Object-Oriented Design
-
-- <a href = "http://www.poodr.com/" target="_blank">*Practical Object-Oriented Design in Ruby*</a> By Sandi Metz. This book is definitely not required or necessary reading prior to Phase 0, but it is incredibly useful in Phase 1 and beyond. It may take a couple reads before you will fully follow, but it's a great investment.
 
 #### Learning Strategies and Programming
 
 - <a href = "http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050" target="_blank">*Pragmatic Thinking and Learning*</a> by Andy Hunt. This book covers "how our brains are wired, and how to take advantage of your brain's architecture. You'll learn new trice and tips to learn more, faster, and retain more of what you learn."
 
 - <a href = "https://cs50.harvard.edu/" target="_blank">CS 50: Harvard Intro to Computer Science Course</a> Interesting and accessible lectures. These are great for students who want to know more about basic Computer Science. See the <a href = "http://d2o9nyf4hwsci4.cloudfront.net/2014/spring/lectures/0/w/syllabus/syllabus.html" target="_blank">syllabus</a> for a list of covered topics.
-
-
-#### JavaScript
-
-- <a href = "http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_4?s=books&ie=UTF8&qid=1380675525&sr=1-4&keywords=eloquent+JavaScript" target="_blank">*JavaScript: The Good Parts*</a> by Douglas Crockford (Book) This resource is good for people who have a bit of JavaScript knowledge and want to better understand how the language works and some pointers for using it effectively. 
-
-
-
-#### Rails
-
-- <a href = "http://ruby.railstutorial.org/" target="_blank">Michael Hartl's RoR Tutorial</a> A decent introduction to the power of rails. In this tutorial, you build a simple Twitter app using Test-Driven Development. It introduces you to Databases, ERB (embedded ruby), RSpec, CSS. This is not required, and you will likely not understand all of the code you will write, but if you want the satisfaction of building something from scratch, it's a decent start. 
 
 ***
 *Note: If you want to check the boxes above and have the checks persist, you need to clone/download this file onto your computer, upload the file to GitHub, and edit it so each* -[ ]* has *-[X].*You can also make notes in the file if you edit your own.* 
