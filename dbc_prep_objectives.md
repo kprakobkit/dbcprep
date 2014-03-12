@@ -21,7 +21,7 @@ For any technical support, please feel free to scope out and post in the <a href
 
 #### 0. Google Account
 
-We will be using Google Hangout for introductory sessions and pairing and Google+ for cohort communication.  Please create a [Gmail](http://www.gmail.com) account and expect to use this for Dev Bootcamp communication.
+We will be using Google Hangout for introductory sessions and pairing and Google+ for cohort communication.  Please create a [Gmail](http://www.gmail.com) account if you do not have one already and expect to use this for Dev Bootcamp communication.
 
 #### 1. Personal Preparation
 
