@@ -19,6 +19,10 @@ For any technical support, please feel free to scope out and post in the <a href
 # Before Entering Phase 0
 ## I need to be able to:
 
+#### 0. Google Account
+
+We will be using Google Hangout for introductory sessions and pairing and Google+ for cohort communication.  Please create a [Gmail](http://www.gmail.com) account and expect to use this for Dev Bootcamp communication.
+
 #### 1. Personal Preparation
 
 You are about to embark on a new learning experience. You will be challenged in new ways that will excite and frustrate you (sometimes at the same time). It's important to prepare yourself for success by recognizing how you learn best and what you enjoy when you are in a learning environment. Recognizing what you need will help you be able to express what you need when learning and make your experience at Dev Bootcamp more fulfilling. You will be spending a significant amount of time working with others, so it's also vital to practice explaining your ideas to others. *Keep track of the your explanations and results below. You will be asked to submit your responses prior to entering Phase 0.*
