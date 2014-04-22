@@ -38,7 +38,7 @@ Learning Objectives:
 
 It is fundamentally important that you have a working development environment on your computer so that you can easily and effectively run the programs you are writing. Great developers are able to setup, maintain, and upgrade their development environment to meet the demands of the project they are working on. This is equivalent to a carpenter keeping their workspace clean, organized, and stocked with the right tools. *Follow the directions in one of the following resources to get started.* 
 
-- <a href="http://docs.railsbridge.org/installfest/" target="_blank">RailsBridge Installfest instructions</a><br>*Follow the instructions for your operating system. There is no need to create a Heroku account or deploy a rails app.*
+- <a href="http://docs.railsbridge.org/installfest/" target="_blank">RailsBridge Installfest instructions</a><br>*Follow the instructions for your operating system. Go through Configure Git - No need to go beyond that or install Rails*
 
 2. <a href="http://it-ebooks.info/book/36/" target="_blank">Chris Pine, *Learn to Program*</a>, Chapter 1.<br>*Be sure to install Sublime Text 2 rather than TextMate!*
 
