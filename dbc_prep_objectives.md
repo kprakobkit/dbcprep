@@ -75,7 +75,7 @@ Computers are not the most intelligent things, but they are obedient and willing
 
 Read <a href="http://it-ebooks.info/book/36/" target="_blank">*Learn to Program*</a> by Chris Pine, chapters 3-15.
 
-Refresh using <a href = "http://www.codecademy.com/tracks/ruby" target="_blank">Codecademy</a> chapters 1-14
+Refresh using <a href = "http://www.codecademy.com/tracks/ruby" target="_blank">Codecademy</a> from Introduction to Ruby to Refactoring
 
 Learning Objectives:
 
