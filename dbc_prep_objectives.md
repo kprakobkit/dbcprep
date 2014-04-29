@@ -15,6 +15,8 @@ Make the best use of your time before Phase 0 by pushing yourself to practice an
 
 For any technical support, please feel free to scope out and post in the <a href = "https://www.facebook.com/groups/devbootcamp.help/" target="_blank">Dev Bootcamp Help Facebook group</a>.
 
+**When you feel confident with the learning objectives and are ready to move into phase 0, you'll need to return to [apply.devbootcamp.com](http://apply.devbootcamp.com) and complete the "End of Prep Survey"** This is required. 
+
 ***
 # Before Entering Phase 0
 ## I need to be able to:
