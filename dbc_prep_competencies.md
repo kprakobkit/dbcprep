@@ -1,14 +1,14 @@
 ![Imgur](http://i.imgur.com/MYCjKBP.jpg)
 
-# DBC Prep Objectives
-In order to get everyone ramped up for Phase 0, as well as to quench your thirst for more knowledge and skills, we’ve put together the following list of objectives and resources for you to prepare yourself for the Phase 0 and the Dev Bootcamp experience! 
+# DBC Prep Competencies
+In order to get everyone ramped up for Phase 0, as well as to quench your thirst for more knowledge and skills, we’ve put together the following list of competencies and resources for you to prepare yourself for the Phase 0 and the Dev Bootcamp experience! 
 
-The objectives are separated into sections. You **must** feel comfortable with each section's objectives to hit the ground running on day one of Phase 0. If you have no programming experience, this section should probably take you around 20-30 hours to do well. 
+The competencies are separated into sections. You **must** feel comfortable with each section's competencies to hit the ground running on day one of Phase 0. If you have no programming experience, this section should probably take you around 20-30 hours to do well. 
 
 Dev Bootcamp provides a unique learning environment and cultural experience. If you want more information on how to think like a programmer or cultural issues we'll be discussing, read up on the optional **additional resources.**
 
 
-Make the best use of your time before Phase 0 by pushing yourself to practice and demonstrate as many of these objectives as you can. 
+Make the best use of your time before Phase 0 by pushing yourself to practice and demonstrate as many of these competencies as you can. 
 
 
 *Note:* You may need to go through resources and tutorials more than once to understand and be able to demonstrate each objective. That is OK. Do what you need to to feel confident and comfortable with each objective. Test yourself often by demonstrating your ability to do each thing.
@@ -16,7 +16,7 @@ Make the best use of your time before Phase 0 by pushing yourself to practice an
 
 For any technical support, please feel free to scope out and post in the <a href = "https://www.facebook.com/groups/devbootcamp.help/" target="_blank">Dev Bootcamp Help Facebook group</a>.
 
-**When you feel confident with the learning objectives and are ready to move into phase 0, you'll need to return to [apply.devbootcamp.com](http://apply.devbootcamp.com) and complete the "End of Prep Survey"** This is required. 
+**When you feel confident with the learning competencies and are ready to move into phase 0, you'll need to return to [apply.devbootcamp.com](http://apply.devbootcamp.com) and complete the "End of Prep Survey"** This is required. 
 
 ***
 # Before Entering Phase 0
@@ -30,7 +30,7 @@ We will be using Google Hangout for introductory sessions and pairing and Google
 
 You are about to embark on a new learning experience. You will be challenged in new ways that will excite and frustrate you (sometimes at the same time). It's important to prepare yourself for success by recognizing how you learn best and what you enjoy when you are in a learning environment. Recognizing what you need will help you be able to express what you need when learning and make your experience at Dev Bootcamp more fulfilling. You will be spending a significant amount of time working with others, so it's also vital to practice explaining your ideas to others. *Keep track of the your explanations and results below. You will be asked to submit your responses prior to entering Phase 0.*
 
-Learning Objectives:
+Learning Competencies:
 
 - [ ] Explain the difference between <a href="http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/" target="_blank">growth and fixed mindset</a>.
 - [ ] Identify my 
@@ -45,7 +45,7 @@ It is fundamentally important that you have a working development environment on
 
 2. <a href="http://it-ebooks.info/book/36/" target="_blank">Chris Pine, *Learn to Program*</a>, Chapter 1.<br>*Be sure to install Sublime Text 2 rather than TextMate!*
 
-Learning Objectives:
+Learning Competencies:
 
 - [ ] Install Ruby version 2.0 <br> *Check the version by running “ruby –v” from the command line. You may need to update.* 
 - [ ] Install DBC’s preferred text editor - Sublime Text.
@@ -61,7 +61,7 @@ Description here:
 
 Resource: <a href="http://cli.learncodethehardway.org/book/" target="_blank">The Command Line Crash Course</a> 
 
-Learning Objectives:
+Learning Competencies:
 
 - [ ] Navigate between directories
 - [ ] Create a new directory
@@ -74,13 +74,13 @@ Learning Objectives:
 - [ ] Run a ruby file
 
 #### 4. Ruby
-Computers are not the most intelligent things, but they are obedient and willing to do things repeatedly without a fuss. The trick is knowing how to tell a computer to do what you want. Computers don't understand innuendo and they take everything literally. (Thankfully they don't hold grudges). It's vital to success in Phase 0 and Dev Bootcamp that you can solve simple challenges using Ruby. In order to be able to do this, you will need to be feel confident with the following objectives. 
+Computers are not the most intelligent things, but they are obedient and willing to do things repeatedly without a fuss. The trick is knowing how to tell a computer to do what you want. Computers don't understand innuendo and they take everything literally. (Thankfully they don't hold grudges). It's vital to success in Phase 0 and Dev Bootcamp that you can solve simple challenges using Ruby. In order to be able to do this, you will need to be feel confident with the following competencies. 
 
 Read <a href="http://it-ebooks.info/book/36/" target="_blank">*Learn to Program*</a> by Chris Pine, chapters 3-15.
 
 Refresh using <a href = "http://www.codecademy.com/tracks/ruby" target="_blank">Codecademy</a> from Introduction to Ruby to Refactoring
 
-Learning Objectives:
+Learning Competencies:
 
 - [ ] Identify strings, integers, arrays, hashes, floats
 - [ ] Define a variable
@@ -91,7 +91,7 @@ Learning Objectives:
 - [ ] Describe loops and explain how the following work (`#times`, `#each`, `#while`, `#until`)
 - [ ] Differentiate between arrays and hashes
 - [ ] Describe what methods, blocks, and classes, and objects are in Ruby
-- [ ] Use IRB to play with Ruby code (*HINT*: Type irb in your terminal and test your ability to do each of the aforementioned objectives)
+- [ ] Use IRB to play with Ruby code (*HINT*: Type irb in your terminal and test your ability to do each of the aforementioned competencies)
 - [ ] Debug syntax errors from error messages
 
 
