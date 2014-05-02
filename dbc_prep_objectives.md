@@ -1,4 +1,4 @@
-![logo](https://github.com/Devbootcamp/graphic-assets/blob/master/logos/logo_trace_large_gray.jpg)
+![Imgur](http://i.imgur.com/f0uXAE0.jpg)
 
 # DBC Prep Objectives
 In order to get everyone ramped up for Phase 0, as well as to quench your thirst for more knowledge and skills, we’ve put together the following list of objectives and resources for you to prepare yourself for the Phase 0 and the Dev Bootcamp experience! 
