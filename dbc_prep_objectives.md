@@ -1,6 +1,7 @@
-<!--add DBC Logo here-->
+![logo](https://github.com/Devbootcamp/graphic-assets/blob/master/logos/logo_trace_large_gray.jpg)
+
 # DBC Prep Objectives
-Congratulations on your acceptance to Dev Bootcamp! In order to get everyone ramped up for Phase 0, as well as to quench your thirst for more knowledge and skills, we’ve put together the following list of objectives and resources for you to prepare yourself for the Phase 0 (and Dev Bootcamp) experience! 
+In order to get everyone ramped up for Phase 0, as well as to quench your thirst for more knowledge and skills, we’ve put together the following list of objectives and resources for you to prepare yourself for the Phase 0 and the Dev Bootcamp experience! 
 
 The objectives are separated into sections. You **must** feel comfortable with each section's objectives to hit the ground running on day one of Phase 0. If you have no programming experience, this section should probably take you around 20-30 hours to do well. 
 
