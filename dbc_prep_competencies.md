@@ -43,7 +43,7 @@ It is fundamentally important that you have a working development environment on
 
 - <a href="http://docs.railsbridge.org/installfest/" target="_blank">RailsBridge Installfest instructions</a><br>*Follow the instructions for your operating system. Go through Configure Git - No need to go beyond that or install Rails*
 
-2. <a href="http://it-ebooks.info/book/36/" target="_blank">Chris Pine, *Learn to Program*</a>, Chapter 1.<br>*Be sure to install Sublime Text 2 rather than TextMate!*
+- <a href="http://it-ebooks.info/book/36/" target="_blank">Chris Pine, *Learn to Program*</a>, Chapter 1.<br>*Be sure to install Sublime Text 2 rather than TextMate!*
 
 Learning Competencies:
 
