@@ -94,7 +94,15 @@ Learning Competencies:
 - [ ] Use IRB to play with Ruby code (*HINT*: Type irb in your terminal and test your ability to do each of the aforementioned competencies)
 - [ ] Debug syntax errors from error messages
 
+#### 5. Typing
+It's important to be able to type at a decent clip in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice!
 
+Take a baseline [test](http://www.typingtest.com/index.html) to see how fast you currently type. 
+
+Then practice. Try [typing.io](http://typing.io/) to practice typing code, which has a ton of strange symbols. Typing can be fun to practice and you can't get too good at it.
+
+Learning Competency:
+ - Type at least 30 words per minute
 
 ## Additional Resources
 *These are optional, so check these out if you have some the time.*
