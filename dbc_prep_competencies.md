@@ -32,10 +32,23 @@ You are about to embark on a new learning experience. You will be challenged in 
 
 Learning Competencies:
 
-- [ ] Explain the difference between <a href="http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/" target="_blank">growth and fixed mindset</a>.
-- [ ] Identify my 
+- [x] Explain the difference between <a href="http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/" target="_blank">growth and fixed mindset</a>.
+
+Peter's notes: Fixed mindset doesn't allow intellectual growth while a growth mindset does.
+- [x] Identify my 
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
-- [ ] Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
+
+Visual: 15
+Aural: 12
+Read/Write: 4
+Kinesthetic: 13
+
+- [x] Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
+
+Concrete Sequential, CS - 40
+Abstract Seqential, AS - 28
+Abstract Random, AR - 36
+Concrete Random, CR - 16
 
 #### 2. Computer Set-Up
 
@@ -47,10 +60,10 @@ It is fundamentally important that you have a working development environment on
 
 Learning Competencies:
 
-- [ ] Install Ruby version 2.0 <br> *Check the version by running “ruby –v” from the command line. You may need to update.* 
-- [ ] Install DBC’s preferred text editor - Sublime Text.
-- [ ] Run a ruby program from Sublime in my terminal<br> *Use <a href="http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/" target="_blank">Perfect Workflow in Sublime Text</a>*
-- [ ] Use IRB to play with Ruby code (*HINT*: Type IRB into your terminal)
+- [x] Install Ruby version 2.0 <br> *Check the version by running “ruby –v” from the command line. You may need to update.* 
+- [x] Install DBC’s preferred text editor - Sublime Text.
+- [x] Run a ruby program from Sublime in my terminal<br> *Use <a href="http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/" target="_blank">Perfect Workflow in Sublime Text</a>*
+- [x] Use IRB to play with Ruby code (*HINT*: Type IRB into your terminal)
 
 
 #### 3. Command Line
@@ -63,15 +76,15 @@ Resource: <a href="http://cli.learncodethehardway.org/book/" target="_blank">The
 
 Learning Competencies:
 
-- [ ] Navigate between directories
-- [ ] Create a new directory
-- [ ] Delete a directory
-- [ ] List files in a directory
-- [ ] Identify the directory I are in
-- [ ] Move a file between from one directory to another
-- [ ] Copy a file or directory
-- [ ] Open a file in a text editor
-- [ ] Run a ruby file
+- [x] Navigate between directories
+- [x] Create a new directory
+- [x] Delete a directory
+- [x] List files in a directory
+- [x] Identify the directory I are in
+- [x] Move a file between from one directory to another
+- [x] Copy a file or directory
+- [x] Open a file in a text editor
+- [x] Run a ruby file
 
 #### 4. Ruby
 Computers are not the most intelligent things, but they are obedient and willing to do things repeatedly without a fuss. The trick is knowing how to tell a computer to do what you want. Computers don't understand innuendo and they take everything literally. (Thankfully they don't hold grudges). It's vital to success in Phase 0 and Dev Bootcamp that you can solve simple challenges using Ruby. In order to be able to do this, you will need to be feel confident with the following competencies. 
